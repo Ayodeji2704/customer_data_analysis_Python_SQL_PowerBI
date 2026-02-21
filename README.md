@@ -4,6 +4,9 @@
 
 This project analyzes transactional data from 3,900 purchases to uncover insights into customer spending patterns, segmentation, product preferences, and subscription behavior. The goal is to support data-driven business decisions through exploratory analysis, SQL queries, and interactive dashboarding.
 
+### Business Problem
+A retail company is experiencing noticeable shifts in customer purchasing behavior across demographics, product categories, and sales channels. Management wants to better understand: What drives purchase decisions? What influences repeat purchases? How discounts, reviews, and payment methods impact sales? Which customer segments generate the most value ?
+
 ### 📁 Dataset
 Rows: 3,900
 
