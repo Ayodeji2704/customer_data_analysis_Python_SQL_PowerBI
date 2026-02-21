@@ -23,9 +23,9 @@ Key Features:
 
 Python (Pandas) – Data cleaning, preprocessing, and feature engineering
 
-PostgreSQL – Structured querying and business intelligence analysis
+PostgreSQL – Structured querying and business intelligence analysis (CTEs, Joins, Case, aggregate functions)
 
-Power BI – Interactive dashboard for visualization and reporting
+Power BI – Interactive dashboard for visualization and reporting (DAX, ETL, data modeling, data visualization)
 
 Methodology:
 
